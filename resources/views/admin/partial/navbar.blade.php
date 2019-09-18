@@ -86,7 +86,7 @@
             <a class="collapse-item" href="{{url('admin/forgot')}}">Forgot Password</a>
             <div class="collapse-divider"></div>
             <h6 class="collapse-header">Other Pages:</h6>
-            <a class="collapse-item" href="{{url('admin/404)}}">404 Page</a>
+            <a class="collapse-item" href="{{url('admin/404')}}">404 Page</a>
             <a class="collapse-item" href="{{url('admin/blank')}}">Blank Page</a>
           </div>
         </div>
